@@ -40,7 +40,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel Blog</div>
-                <a href="/blog/public/posts">Go to the Blog</a>
+                <a href="/posts">Go to the Blog</a>
             </div>
         </div>
     </body>
