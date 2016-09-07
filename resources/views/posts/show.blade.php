@@ -17,6 +17,7 @@
 
     <div class="container">
       <h1>Show Post </h1>
+      <a class="btn btn-primary pull-right" style="margin: 10px 10px 10px 10px;" href="{{ action('PostController@index') }}">Back To Posts</a>
 
       <div class="container">
           <table class="table table-bordered table-hover " bgcolor="#00FF00">
